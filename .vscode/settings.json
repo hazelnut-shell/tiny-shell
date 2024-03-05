@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "tsh.h": "c",
+        "stat.h": "c",
+        "stdbool.h": "c",
+        "errno.h": "c",
+        "fcntl.h": "c",
+        "history.h": "c",
+        "job.h": "c",
+        "types.h": "c"
+    }
+}
